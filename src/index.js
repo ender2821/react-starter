@@ -1,5 +1,6 @@
 import React from 'react';
-import './bootsrap.min.js';
+import {render} from 'react-dom';
+import Router from './components/Router';
 import './css/bootstrap.css';
 import './css/style.css';
 
